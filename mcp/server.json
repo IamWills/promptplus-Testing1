@@ -1,0 +1,21 @@
+{
+  "description" : "Expose GitHub-hosted PromptPlus collections",
+  "name" : "PromptPlus MCP",
+  "resources" : [
+    {
+      "id" : "prompt:\/\/collection-25083812-efad-4c7c-9689-ce4d0cea571c",
+      "mimeType" : "application\/json",
+      "name" : "AI翻译器",
+      "source" : {
+        "github" : {
+          "owner" : "IamWills",
+          "path" : "collections\/collection-25083812-efad-4c7c-9689-ce4d0cea571c.json",
+          "ref" : "main",
+          "repo" : "promptplus-Testing1"
+        },
+        "type" : "github"
+      }
+    }
+  ],
+  "version" : "1.0.0"
+}
